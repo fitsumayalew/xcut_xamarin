@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263074321245",
+    "firebase_url": "https://xcut-1f8aa.firebaseio.com",
+    "project_id": "xcut-1f8aa",
+    "storage_bucket": "xcut-1f8aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263074321245:android:01ff9e0dbb6d6a75618eb4",
+        "android_client_info": {
+          "package_name": "com.companyname.xcut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263074321245-0245sd8c493bq2vs8n3lnv1n474co9al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.xcut",
+            "certificate_hash": "c8457a2fd9e3b559c46127d7370664232715dbbc"
+          }
+        },
+        {
+          "client_id": "263074321245-lj8nqp4bnevi30ib6jtmqsgvsnaa62jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtis8_7ApwUh3EwcIFwaYlMoPljtbKMEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263074321245-lj8nqp4bnevi30ib6jtmqsgvsnaa62jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
